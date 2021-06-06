@@ -1,1 +1,2 @@
-# Cmd-Komutlar-
+- Komutlar tamamen bana ait değildir [WebTeknoya](https://www.webtekno.com/) (Komutların bi miktarı bana ait)
+- Keyifli Kullanmalar
